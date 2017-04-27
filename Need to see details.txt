@@ -1,0 +1,8 @@
+
+- Maximum likelihood estimation
+-line search --- to set alpha
+- Conjugate gradient descent
+-BFGS
+- L-BFGS
+
+-----------------Not recommended to implement, can be found as function in different libraries 
